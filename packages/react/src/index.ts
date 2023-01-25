@@ -1,3 +1,3 @@
-import { colors } from "@tkn-ui/tokens"
+import { colors } from '@tkn-ui/tokens'
 
-console.log(colors);
+console.log(colors)
