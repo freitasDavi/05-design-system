@@ -26,9 +26,11 @@
     "vite": "^4.0.4"
   },
   "dependencies": {
+    "@tkn-ui/eslint-config": "*",
     "@tkn-ui/react": "*",
     "@tkn-ui/tokens": "*",
-    "@tkn-ui/eslint-config": "*",
+    "@tkn-ui/ts-config": "*",
+    "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
