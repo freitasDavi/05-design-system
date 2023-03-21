@@ -1,6 +1,5 @@
 # Components
 
-
 - [] Text
 - [] Heading
 - [] Box
@@ -10,3 +9,5 @@
 - [] Checkbox
 - [] Avatar
 - [] Multistep
+
+Main
