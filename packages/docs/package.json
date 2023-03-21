@@ -1,8 +1,8 @@
 {
-  "name": "docs",
+  "name": "@tkn-ui/docs",
   "version": "1.0.0",
   "description": "",
-  "main": "vite.config.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "storybook dev -p 6006",
