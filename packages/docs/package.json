@@ -26,6 +26,7 @@
     "vite": "^4.0.4"
   },
   "dependencies": {
+    "@storybook/addon-a11y": "^6.5.16",
     "@tkn-ui/eslint-config": "*",
     "@tkn-ui/react": "*",
     "@tkn-ui/tokens": "*",
